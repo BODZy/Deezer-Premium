@@ -9,6 +9,10 @@
 // @author       TheNolle Studios
 // @description         Let's you use Deezer.com as a premium user, It let's you skip songs, don't play ads, show lyrics, etc.
 
+// @supportURL   https://github.com/TheNolle/Deezer-Premium/issues/new/choose
+// @updateURL    https://github.com/TheNolle/Deezer-Premium/raw/master/userscript.user.js
+// @downloadURL  https://github.com/TheNolle/Deezer-Premium/raw/master/userscript.user.js
+
 // @compatible  firefox, Tampermonkey || Violentmonkey
 // @compatible  chrome, Tampermonkey
 // @compatible  edge, Tampermonkey
