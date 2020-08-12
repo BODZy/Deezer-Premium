@@ -6,6 +6,7 @@
 
 ### Description:
 Unlocks almost every Deezer functions even without paying for it 😁
+- Will work only with the web app.
 
 
 ### How To Use:
